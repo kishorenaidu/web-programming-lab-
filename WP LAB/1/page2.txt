@@ -1,0 +1,20 @@
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1 style="text-align:center;">Personal life</h1>
+<p>
+Smith married Sheree Zampino in 1992. Their son Willard Carroll "Trey" Smith III was born on November 11, 1992. They divorced in 1995. Trey appeared in his father's music video for the 1998 single "Just the Two of Us". He also acted in two episodes of the sitcom All of Us, and has appeared on The Oprah Winfrey Show and the David Blaine: Real or Magic TV special.
+Smith married actress Jada Koren Pinkett in 1997. They met when Jada auditioned for a role as Smith's character's girlfriend on the '90s sitcom, The Fresh Prince of Bel-Air. Jada did not get the part because she was too short. Instead, the role went to Nia Long. Smith grew an attraction to Jada when he later saw her on the TV series, A Different World. Smith, who was married at the time to Sheree Fletcher, decided not to act on his attraction. In 2018, he revealed on Red Table Talk that after Fletcher ended their relationship, only then did he approach Jada. They began dating after Jada moved from her native city of Baltimore to California. The two married in a private ceremony on December 31, 1997, at a hotel in Baltimore. They refer to each other as "life partners", with Smith stating "There's no deal breakers. There's nothing she could do—ever—nothing that would break our relationship. She has my support til death, and it feels so good to get to that space". The pair have never appeared in a film or on a TV show together, however, they do produce films through their joint production company, Overbrook Entertainment. Together they have two children: Jaden Christopher Syre Smith (born 1998), his co-star in The Pursuit of Happyness and After Earth; and Willow Camille Reign Smith (born 2000), who appeared as his daughter in I Am Legend. Smith and his brother Harry own Treyball Development Inc., a Beverly Hills-based company named after Trey. Smith and his family reside in Los Angeles, California. In 2018, Smith celebrated his 50th birthday by performing a bungee jump from a helicopter in the Grand Canyon. Smith was insured by Lloyd's of London for $200 million for the jump which raised money for the charity Global Citizen. In an interview with The Guardian in 2012, he revealed that he is fluent in Spanish, owing to his time backpacking through Guadalajara, Mexico in his youth.</p>
+<video controls>
+  <source src="videoplayback.mp4" type="video/mp4">
+  <source src="videoplayback.webm" type="video/webm">
+  <p>Your browser doesn't support HTML5 video. Here is a <a href="videoplayback.mp4">link to the video</a> instead.</p>
+</video>
+ <audio controls>
+ <source src = "willsmith interview.ogg">
+ <source src = "willsmith interview.mp3">
+ </audio>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<body>
+<div style="text-align: center;">
+<h2>To Extract Area Code From TelePhone Number</h2>
+<label>Enter the TelePhone Number</label>
+<input type="text" placeholder="Number" id="n"/>
+<input type="button" value="Enter" onclick="Check()" />
+<p id="results"></p>
+</div>
+<script>
+function Check()
+ {
+ var n=document.getElementById("n").value;
+ var l=n.split("-");
+ document.getElementById("results").innerHTML = l[0]+" is the area code and "+l[1]+" is the Number";
+ }
+</script>
+</body>
+</html>

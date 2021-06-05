@@ -1,0 +1,13 @@
+h2{
+    color:white;
+    text-shadow:2px 2px 5px black;
+}
+body{
+    margin:10px;
+    font:20px normal solid;
+}
+p::first-letter{
+     font-size:200%;
+     color:black;
+     text-shadow:2px 2px red;
+}
